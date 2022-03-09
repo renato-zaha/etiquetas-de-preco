@@ -1,0 +1,15 @@
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\etiquetasdepreco.exe
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\etiquetasdepreco.deps.json
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\etiquetasdepreco.runtimeconfig.json
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\etiquetasdepreco.dll
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\ref\etiquetasdepreco.dll
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\bin\Debug\net6.0\etiquetasdepreco.pdb
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.csproj.AssemblyReference.cache
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.AssemblyInfoInputs.cache
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.AssemblyInfo.cs
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.csproj.CoreCompileInputs.cache
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.dll
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\ref\etiquetasdepreco.dll
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.pdb
+C:\Users\zaha0\source\repos\etiquetasdepreco\etiquetasdepreco\obj\Debug\net6.0\etiquetasdepreco.genruntimeconfig.cache
